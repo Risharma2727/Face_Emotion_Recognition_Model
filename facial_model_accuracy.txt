@@ -1,1 +1,2 @@
-Facial Emotion Model Accuracy (on test set): 97.89%
+Facial Emotion Model Accuracy (on test set): ~96.09%–97.89% (FER2013)          |
+         
